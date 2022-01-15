@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <subjectsList>
+      <Subject>
+        <Name>ПУ</Name>
+        <Grade>12</Grade>
+      </Subject>
+      <Subject>
+        <Name>ФВХ</Name>
+        <Grade>14</Grade>
+      </Subject>
+    </subjectsList>
+    <Name>Георгий</Name>
+  </Student>
+  <Student>
+    <subjectsList>
+      <Subject>
+        <Name>ПУ</Name>
+        <Grade>56</Grade>
+      </Subject>
+      <Subject>
+        <Name>ФВХ</Name>
+        <Grade>77</Grade>
+      </Subject>
+    </subjectsList>
+    <Name>Константин</Name>
+  </Student>
+</ArrayOfStudent>

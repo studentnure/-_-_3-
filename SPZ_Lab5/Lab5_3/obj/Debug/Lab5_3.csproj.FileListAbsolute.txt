@@ -1,0 +1,66 @@
+C:\Users\User\source\repos\Lab5_3\Lab5_3\bin\Debug\Lab5_3.exe.config
+C:\Users\User\source\repos\Lab5_3\Lab5_3\bin\Debug\Lab5_3.exe
+C:\Users\User\source\repos\Lab5_3\Lab5_3\bin\Debug\Lab5_3.pdb
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.Form1.resources
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.Properties.Resources.resources
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.exe
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.pdb
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.AddStudentForm.resources
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.AddSubjectForm.resources
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.QueryForm.resources
+C:\Users\User\source\repos\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csprojAssemblyReference.cache
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\bin\Debug\Lab5_3.exe.config
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\bin\Debug\Lab5_3.exe
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\bin\Debug\Lab5_3.pdb
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csprojAssemblyReference.cache
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.AddStudentForm.resources
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.AddSubjectForm.resources
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.Form1.resources
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.Properties.Resources.resources
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.QueryForm.resources
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.exe
+C:\Users\Dimas\Downloads\Telegram Desktop\Lab5_3\Lab5_3\Lab5_3\obj\Debug\Lab5_3.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe.config
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddStudentForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddSubjectForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Form1.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Properties.Resources.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.QueryForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.pdb
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.pdb
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddStudentForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddSubjectForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Form1.resources
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Properties.Resources.resources
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.QueryForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.exe
+C:\Users\qwert\source\repos\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.pdb
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe.config
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.exe
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\bin\Debug\Lab5_3.pdb
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.AssemblyReference.cache
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddStudentForm.resources
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.AddSubjectForm.resources
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Form1.resources
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.Properties.Resources.resources
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.QueryForm.resources
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.exe
+E:\Новая папка\фів\SPZ_Lab5\Lab5_3\obj\Debug\Lab5_3.pdb

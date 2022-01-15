@@ -1,0 +1,11 @@
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\Debug\lb7.exe.config
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\Debug\lb7.exe
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\Debug\lb7.pdb
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.csproj.AssemblyReference.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.csproj.ResolveComReference.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.Form1.resources
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.Properties.Resources.resources
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.csproj.GenerateResource.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.csproj.CoreCompileInputs.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.exe
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\Debug\lb7.pdb

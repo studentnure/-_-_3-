@@ -1,0 +1,29 @@
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe.config
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.pdb
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe.config
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.pdb
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.exe
+C:\Users\pc\Desktop\СПЗ_Лабы\repos_SPZ\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.pdb
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.pdb
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.exe
+C:\Users\qwert\source\repos\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.pdb
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe.config
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.exe
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\bin\Debug\SPZ_Lab1.pdb
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.exe
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.pdb
+E:\Новая папка\фів\SPZ_Lab1\SPZ_Lab1\obj\Debug\SPZ_Lab1.csproj.AssemblyReference.cache

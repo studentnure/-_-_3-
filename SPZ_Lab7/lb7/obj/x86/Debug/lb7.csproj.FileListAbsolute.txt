@@ -1,0 +1,33 @@
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\x86\Debug\lb7.exe.config
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\x86\Debug\lb7.exe
+C:\Users\dmitrii\source\repos\lb7\lb7\bin\x86\Debug\lb7.pdb
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.csproj.AssemblyReference.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.csproj.ResolveComReference.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.Form1.resources
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.csproj.CoreCompileInputs.cache
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.exe
+C:\Users\dmitrii\source\repos\lb7\lb7\obj\x86\Debug\lb7.pdb
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.ResolveComReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.Form1.resources
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.exe
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\obj\x86\Debug\lb7.pdb
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\bin\x86\Debug\lb7.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\bin\x86\Debug\lb7.exe
+C:\Users\qwert\source\repos\SPZ_Lab7\lb7\bin\x86\Debug\lb7.pdb
+E:\Новая папка\фів\SPZ_Lab7\lb7\bin\x86\Debug\lb7.exe.config
+E:\Новая папка\фів\SPZ_Lab7\lb7\bin\x86\Debug\lb7.exe
+E:\Новая папка\фів\SPZ_Lab7\lb7\bin\x86\Debug\lb7.pdb
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.ResolveComReference.cache
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.Form1.resources
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.cache
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.exe
+E:\Новая папка\фів\SPZ_Lab7\lb7\obj\x86\Debug\lb7.pdb

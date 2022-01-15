@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfBuyReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BuyReport>
+    <TimeOfExecution>2021-12-22T13:05:56.427411+02:00</TimeOfExecution>
+    <MaterialQuantity>10</MaterialQuantity>
+    <MoneyQuantity>5000</MoneyQuantity>
+  </BuyReport>
+</ArrayOfBuyReport>

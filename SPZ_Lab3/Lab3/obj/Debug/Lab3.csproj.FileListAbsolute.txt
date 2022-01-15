@@ -1,0 +1,86 @@
+C:\Users\User\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\User\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\User\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.AddComputerForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.SetWifiForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.TasksForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.AddTaskForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.CompareForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.EditComputerForm.resources
+C:\Users\User\source\repos\Lab3\Lab3\obj\Debug\Lab3.EditTaskForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.AddComputerForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.AddTaskForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.CompareForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.EditComputerForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.EditTaskForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.SetWifiForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.TasksForm.resources
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Dimas\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddComputerForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddTaskForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.CompareForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditComputerForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditTaskForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.SetWifiForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.TasksForm.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddComputerForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddTaskForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.CompareForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditComputerForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditTaskForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.SetWifiForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.TasksForm.resources
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\qwert\source\repos\SPZ_Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\Новая папка\фів\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\Новая папка\фів\SPZ_Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Новая папка\фів\SPZ_Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddComputerForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.AddTaskForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.CompareForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditComputerForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.EditTaskForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.SetWifiForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.TasksForm.resources
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Новая папка\фів\SPZ_Lab3\Lab3\obj\Debug\Lab3.pdb

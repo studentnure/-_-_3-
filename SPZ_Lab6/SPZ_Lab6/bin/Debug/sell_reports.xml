@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfSellReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SellReport>
+    <TimeOfExecution>2021-12-22T13:06:01.8058736+02:00</TimeOfExecution>
+    <ProductQuantity>1</ProductQuantity>
+    <MoneyQuantity>1500</MoneyQuantity>
+  </SellReport>
+</ArrayOfSellReport>

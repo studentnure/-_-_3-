@@ -1,0 +1,45 @@
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe.config
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.pdb
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Form1.resources
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Properties.Resources.resources
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.exe
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.pdb
+C:\Users\User\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Reports.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe.config
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Form1.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Properties.Resources.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Reports.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.pdb
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.pdb
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Form1.resources
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Properties.Resources.resources
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Reports.resources
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.exe
+C:\Users\qwert\source\repos\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.pdb
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe.config
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.exe
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\bin\Debug\SPZ_Lab6.pdb
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.AssemblyReference.cache
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Form1.resources
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Properties.Resources.resources
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.Reports.resources
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.GenerateResource.cache
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.exe
+E:\Новая папка\фів\SPZ_Lab6\SPZ_Lab6\obj\Debug\SPZ_Lab6.pdb

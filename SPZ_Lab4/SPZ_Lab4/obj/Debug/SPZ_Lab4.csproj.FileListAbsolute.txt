@@ -1,0 +1,41 @@
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe.config
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.pdb
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Form1.resources
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Properties.Resources.resources
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.exe
+C:\Users\User\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe.config
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.pdb
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Form1.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Properties.Resources.resources
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.exe
+C:\Users\Dimas\source\repos\SPZ\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.pdb
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe.config
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.pdb
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csprojAssemblyReference.cache
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Form1.resources
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Properties.Resources.resources
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.exe
+C:\Users\qwert\source\repos\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.pdb
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe.config
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.exe
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\bin\Debug\SPZ_Lab4.pdb
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.AssemblyReference.cache
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Form1.resources
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.Properties.Resources.resources
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.GenerateResource.cache
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.csproj.CoreCompileInputs.cache
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.exe
+E:\Новая папка\фів\SPZ_Lab4\SPZ_Lab4\obj\Debug\SPZ_Lab4.pdb
